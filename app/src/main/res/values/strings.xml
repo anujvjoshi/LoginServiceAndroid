@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoginService</string>
+    <string name="welcome">WELCOME YOU ARE SUCCESSFULLY LOGGED IN</string>
+</resources>
